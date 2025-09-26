@@ -31,3 +31,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Maven
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entorno
+.env
